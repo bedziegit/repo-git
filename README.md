@@ -1,8 +1,3 @@
-# test-repo
-<<<<<<< HEAD
-hello :)
-
-titanic
 
 ## Moje repo
 =======
